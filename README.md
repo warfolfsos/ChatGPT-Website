@@ -25,3 +25,5 @@
    - **访问链接**：[ckai.xyz](https://ckai.xyz/login?invite_code=gp0vm6yx)
 
 这五个网站都具备强大的自然语言处理和上下文理解能力，能够为用户提供高质量的回答和支持。无论是学习、工作还是日常咨询，都可以选择其中之一来提高效率和体验。
+
+[免费中文版 ChatGPT4.0 镜像网站入口【支持 GPT4.0/3.5/GPT4o】](https://github.com/uqcollapsis99/Mianfei-gpt4)
